@@ -1,0 +1,6 @@
+{
+  "name": "a2zscan",
+  "description": "Professional lightweight document scanner and PDF utility hub for digitizing, merging, compressing, and managing documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
